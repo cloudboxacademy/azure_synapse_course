@@ -1,0 +1,84 @@
+{
+  "driverId": "driver-000001",
+  "hired": true,
+  "distanceToDestination": 10.02,
+  "timeToDestinationMins": 22,
+  "deviceId": "device-000001",
+  "deviceTimestamp": "2022-05-16T01:25:43.511Z",
+  "DeviceLocation": {
+    "latitude": 40.7831,
+    "longitude": 73.9712
+  },
+  "DestinationLocation": {
+    "latitude": 40.7931,
+    "longitude": 73.9512  
+  }
+}
+
+{
+  "driverId": "driver-000002",
+  "hired": false,
+  "distanceToDestination": 0,  
+  "timeToDestinationMins": 0,
+  "deviceId": "device-000002",
+  "deviceTimestamp": "2022-05-16T01:25:43.515Z",
+  "DeviceLocation": {
+    "latitude": 40.6782,
+    "longitude": 73.9442
+  },
+  "DestinationLocation": {
+    "latitude": 40.6731,
+    "longitude": 73.9502  
+  }
+}
+
+{
+  "driverId": "driver-000003",
+  "hired": true,
+  "distanceToDestination": 1.03, 
+  "timeToDestinationMins": 5,
+  "deviceId": "device-000003",
+  "deviceTimestamp": "2022-05-16T01:25:43.517Z",
+  "DeviceLocation": {
+    "latitude": 40.8116,
+    "longitude": 73.9465
+  },
+  "DestinationLocation": {
+    "latitude": 40.8131,
+    "longitude": 73.9562  
+  }
+}
+
+{
+  "driverId": "driver-000004",
+  "hired": true,
+  "distanceToDestination": 2.01, 
+  "timeToDestinationMins": 4,
+  "deviceId": "device-000004",
+  "deviceTimestamp": "2022-05-16T01:25:43.501Z",
+  "DeviceLocation": {
+    "latitude": 40.8448,
+    "longitude": 73.8648
+  },
+  "DestinationLocation": {
+    "latitude": 40.8431,
+    "longitude": 73.9122  
+  }
+}
+
+{
+  "driverId": "driver-000005",
+  "hired": true,
+  "distanceToDestination": 20.80, 
+  "timeToDestinationMins": 54,
+  "deviceId": "device-000005",
+  "deviceTimestamp": "2022-05-16T01:25:43.519Z",
+  "DeviceLocation": {
+    "latitude": 40.7282,
+    "longitude": 73.7949
+  },
+  "DestinationLocation": {
+    "latitude": 40.7231,
+    "longitude": 73.9412  
+  }
+}

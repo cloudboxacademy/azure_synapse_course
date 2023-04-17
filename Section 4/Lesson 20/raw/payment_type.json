@@ -1,0 +1,6 @@
+{"payment_type":1,"payment_type_desc":"Credit card"}
+{"payment_type":2,"payment_type_desc":"Cash"}
+{"payment_type":3,"payment_type_desc":"No charge"}
+{"payment_type":4,"payment_type_desc":"Dispute"}
+{"payment_type":5,"payment_type_desc":"Unknown"}
+{"payment_type":6,"payment_type_desc":"Voided trip"}

@@ -1,0 +1,6 @@
+{"payment_type":1,"payment_type_desc":[{"sub_type":1, "value":"Credit card"}]}
+{"payment_type":2,"payment_type_desc":[{"sub_type":1, "value":"Cash"}]}
+{"payment_type":3,"payment_type_desc":[{"sub_type":1, "value":"No charge"}]}
+{"payment_type":4,"payment_type_desc":[{"sub_type":1, "value":"Dispute"}]}
+{"payment_type":5,"payment_type_desc":[{"sub_type":1, "value":"Unknown"}, {"sub_type":2, "value":"Unavailable"}]}
+{"payment_type":6,"payment_type_desc":[{"sub_type":1, "value":"Voided trip"}]}
